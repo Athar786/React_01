@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 
-export class Contact extends Component {
+export class Login extends Component {
   render() {
     return (
       <div className="mt-5 d-flex justify-content-center">
@@ -14,14 +14,6 @@ export class Contact extends Component {
           }}
         >
           <div style={{ flexDirection: "row" }}>
-            <span> UserName:</span>
-            <input
-              type="text"
-              name="uname"
-              style={{ margin: "10px", height: "30px" }}
-            />
-          </div>
-          <div style={{ flexDirection: "row" }}>
             <span>Email ID:</span>
             <input
               type="email"
@@ -30,11 +22,15 @@ export class Contact extends Component {
             />
           </div>
           <div style={{ flexDirection: "row" }}>
-            <span>Message:</span>
-            <textarea name="add" style={{ margin: "10px", height: "40px" }} />
+            <span>Password:</span>
+            <input
+              type="password"
+              name="pwd"
+              style={{ margin: "10px", height: "30px" }}
+            />
           </div>
           <div style={{flexDirection:"row"}}>
-            <button name="con" >Contact Us</button>
+            <button name="con" >Login</button>
           </div>
         </div>
         <div

@@ -11,42 +11,42 @@ export class Footer extends Component {
                       <div className="row">
                           {/* Column 1 */}
                           <div className="col-md-3 col-sm-6">
-                              <h4>Lorem ipsum</h4>
+                              <h4>Web Developer</h4>
                               <ul className="list-unstyled">
-                                  <li><a href="/">Lorem, ipsum</a></li>
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
+                                  <li><a href="/">Laravel Developer</a></li>
+                                  <li>Magento Developer</li>
+                                  <li>Wordpress Developer</li>
+                                  <li>Fullstack Developer</li>
                               </ul>
                           </div>
                           {/* Column 2 */}
                           <div className="col-md-3 col-sm-6">
-                              <h4>Lorem ipsum</h4>
+                              <h4>Mobile Developer</h4>
                               <ul className="list-unstyled">
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
+                                  <li>Android Developer</li>
+                                  <li>ReactNative Developer</li>
+                                  <li>IOS Developer</li>
+                                  <li>eCommerce</li>
                               </ul>
                           </div>
                           {/* Column 3 */}
                           <div className="col-md-3 col-sm-6">
-                              <h4>Lorem ipsum</h4>
+                              <h4>Front-end Developer</h4>
                               <ul className="list-unstyled">
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
+                                  <li>HTML Developer</li>
+                                  <li>Javascript Developer</li>
+                                  <li>React Developer</li>
+                                  <li>Ajax</li>
                               </ul>
                           </div>
                           {/* Column 4 */}
                           <div className="col-md-3 col-sm-6">
-                              <h4>Lorem ipsum</h4>
+                              <h4>Back-end Developer</h4>
                               <ul className="list-unstyled">
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
-                                  <li>Lorem, ipsum</li>
+                                  <li>SQL Developer</li>
+                                  <li>Java Developer</li>
+                                  <li>PHP Developer</li>
+                                  <li>Python Developer</li>
                               </ul>
                           </div>
 
